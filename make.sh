@@ -1,1 +1,1 @@
-clang -Weverything -lm -Wl,-s -Os render.c  -o render
+clang -Weverything -lm -Wl,-s -Os render.c -o render
